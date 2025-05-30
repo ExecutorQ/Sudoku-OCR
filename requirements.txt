@@ -5,4 +5,4 @@ numpy
 pillow
 python-sat
 Werkzeug
-vendor/paddleocr-2.6.1-py3-none-any.whl
+git+https://github.com/yujohn-openai/PaddleOCR-no-pymupdf.git@v2.6.1
