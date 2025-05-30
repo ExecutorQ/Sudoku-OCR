@@ -1,0 +1,6 @@
+flask
+paddleocr
+opencv-python
+pillow
+python-sat
+werkzeug
