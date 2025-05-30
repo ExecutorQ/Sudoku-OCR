@@ -1,6 +1,6 @@
 flask>=2.3
-paddleocr>=2.6.1
-paddlepaddle==2.5.0
+paddleocr==2.6.1
+paddlepaddle==2.6.2
 opencv-python
 numpy
 pillow
