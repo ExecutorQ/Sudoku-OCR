@@ -1,8 +1,8 @@
 flask>=2.3
 paddleocr==2.6.1
 paddlepaddle==2.6.2
-opencv-python
+opencv-python-headless>=4.5.1.48
 numpy
 pillow
-pysat
+python-sat[pblib,aiger]  # pysat 的正確名稱
 Werkzeug
