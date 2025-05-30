@@ -5,4 +5,4 @@ numpy
 pillow
 python-sat
 Werkzeug
-git+https://github.com/ExecutorQ/Sudoku-OCR-PaddleOCR.git@no-fitzz
+git+https://github.com/yujohn-openai/PaddleOCR-no-pymupdf.git@no-fitzz
