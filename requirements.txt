@@ -1,6 +1,8 @@
-flask
-paddleocr
+flask>=2.3
+paddleocr>=2.6.1
+paddlepaddle==2.5.0
 opencv-python
+numpy
 pillow
-python-sat
-werkzeug
+pysat
+Werkzeug
